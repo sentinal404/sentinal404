@@ -3,94 +3,80 @@
 <h1 align="center">⚡ Rishi | Sentinel404 ⚡</h1>
 
 <p align="center">
-💀 Offensive Security • Bug Bounty Hunter • Builder 💀
+💀 Offensive Security • Red Team Mindset • Builder 💀
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Think+Like+Attacker;Recon+is+King;Exploit+Everything;Automation+%3E+Manual;Break+%7C+Build+%7C+Repeat" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Think+Like+Attacker;Break+Systems;Chain+Everything;No+Noise+Only+Impact;Stay+Undetected" />
 </p>
 
 ---
 
-## 🧬 About Me
+## 🧬 PROFILE
 
-- 🎓 Student + Founder Mindset  
-- 💀 Offensive Security & Bug Bounty  
-- ⚡ Automation Driven Hacker  
-- 🧠 Focus: Real-world exploitation  
-- 🔍 API + Web + Logic Bugs Specialist  
-
----
-
-## ⚔️ What I Do
-
-- 🔎 Deep Recon (subfinder → httpx → katana → nuclei)
-- 🧠 IDOR / Auth Bypass / Logic Bugs
-- 🌐 API Exploitation
-- ☁️ Cloud Misconfiguration Hunting
-- ⚡ Custom automation scripts (Python + Bash)
+```bash
+> Student
+> Founder Mindset
+> Offensive Security Focused
+> Automation Driven
+> Real-World Exploitation Only
+```
 
 ---
 
-## 🧰 Toolkit
+## ⚔️ CORE SKILLS
 
-Recon:
-- subfinder
-- assetfinder
-- httpx
-- katana
-- gau / waybackurls
-
-Scanning:
-- nuclei
-- dalfox
-- sqlmap
-
-Manual:
-- Burp Suite
-- Postman
-
-Automation:
-- Python scripts
-- Bash pipelines
+- 🌐 Web Application Security Testing  
+- 📱 Mobile Application Security Testing  
+- 🔐 API Security & Abuse Testing  
+- 🧠 Business Logic Manipulation  
+- 🪪 Authentication & Access Control Bypass  
+- ☁️ Cloud Security & Misconfiguration Analysis  
+- 🏢 Active Directory Attacks & Enumeration  
+- 🐧 Linux Privilege Escalation  
+- 🪟 Windows Privilege Escalation  
+- 💣 Exploit Development (Basic → Advanced)  
+- 🔍 Attack Surface Mapping  
+- ⚡ Vulnerability Chaining  
+- 🧬 Post Exploitation Techniques  
+- 📡 Network Recon & Internal Movement  
 
 ---
 
-## ⚡ Methodology
+## ⚡ ATTACK FLOW
 
-1. Recon → Expand attack surface
-2. Discover hidden endpoints / APIs
-3. Parameter fuzzing
-4. Logic abuse (auth bypass / IDOR)
-5. Chain bugs → maximize impact
-6. Extract sensitive data (PoC)
-
----
-
-## 🧠 Mindset
-
-- ❌ No blind scanning  
-- ✅ Deep manual testing  
-- ❌ No low impact bugs  
-- ✅ High severity chaining  
-- ⚡ Think: "Dev ne kya miss kiya?"  
+```
+1. Attack Surface Discovery
+2. Deep Recon & Mapping
+3. Hidden Entry Points Identification
+4. Access Control Weakness Testing
+5. Logic Abuse & Exploitation
+6. Multi-step Vulnerability Chaining
+7. Privilege Escalation
+8. Data Extraction (Impact Proof)
+9. Persistence Opportunities
+```
 
 ---
 
-## 💻 Tech Stack
+## 🧠 MINDSET
 
-![Python](https://img.shields.io/badge/python-00FF00?style=for-the-badge&logo=python&logoColor=black)
-![Bash Script](https://img.shields.io/badge/bash-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![Linux](https://img.shields.io/badge/linux-00FF00?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-00FF00?style=for-the-badge&logo=docker&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/kubernetes-00FF00?style=for-the-badge&logo=kubernetes&logoColor=black)
-![Cloud](https://img.shields.io/badge/cloud-00FF00?style=for-the-badge&logo=google-cloud&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-00FF00?style=for-the-badge&logo=nginx&logoColor=black)
-![MongoDB](https://img.shields.io/badge/mongodb-00FF00?style=for-the-badge&logo=mongodb&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-00FF00?style=for-the-badge&logo=mysql&logoColor=black)
-![Redis](https://img.shields.io/badge/redis-00FF00?style=for-the-badge&logo=redis&logoColor=black)
-![TOR](https://img.shields.io/badge/tor-00FF00?style=for-the-badge&logo=tor-project&logoColor=black)
-![Terraform](https://img.shields.io/badge/terraform-00FF00?style=for-the-badge&logo=terraform&logoColor=black)
+- ❌ No Blind Testing  
+- ✅ Precision Attacks  
+- ❌ No Low Impact Findings  
+- ✅ Focus on Real Damage Potential  
+- ⚡ Think: "How to break system completely?"  
+
+---
+
+## 🧩 AREAS OF INTEREST
+
+- 🔥 Red Teaming
+- ⚡ Advanced Exploitation
+- 🧠 Security Automation
+- 🤖 AI + Offensive Security
+- 🌐 Large Scale Recon Systems
+- 🕶️ Stealth & Evasion Techniques
 
 ---
 
@@ -102,22 +88,19 @@ Automation:
 
 ---
 
-## 🔝 Top Contributed Repo
+## 📡 STATUS
 
-![](https://github-contributor-stats.vercel.app/api?username=sentinal404&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
-
----
-
-## 📡 Status
-
-> Actively hunting bugs  
-> Building tools  
-> Learning & evolving  
+```
+> Active
+> Hunting
+> Building
+> Evolving
+```
 
 ---
 
 <p align="center">
-🟢 ACTIVE HUNTER 🟢
+🟢 SYSTEM MODE: OFFENSIVE 🟢
 </p>
 
 ---
