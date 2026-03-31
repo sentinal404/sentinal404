@@ -1,137 +1,99 @@
-<!-- ================= ELITE HACKER README ================= -->
+<div align="center">
 
-<h1 align="center">⚡ Rishi | Sentinel404 ⚡</h1>
+![Sentinel404 Banner](https://raw.githubusercontent.com/Sentinel404/Sentinel404/main/banner.png) 
+<!-- Note: You will need to upload the generated image to your repo and update this link -->
 
-<p align="center">
-💀 Offensive Security • Red Team • Zero-Day Hunter 💀
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=0DFF00&center=true&vCenter=true&lines=Think+Like+Attacker;Stay+Silent+Stay+Deadly;Exploit+Everything;Chain+For+Impact;Zero-Day+Mindset" />
-</p>
-
----
-
-<pre>
-╔═══════════════════════════════════════════════════════════════════════╗
-║  "The quieter you become, the more you are able to hear"             ║
-║                    - Kali Linux Motto                                ║
-║                                                                       ║
-║  "To know your enemy, you must become your enemy"                    ║
-║                    - Sun Tzu, The Art of War                         ║
-╚═══════════════════════════════════════════════════════════════════════╝
-</pre>
-
----
-
-## 🧬 PROFILE
-
-```bash
-> Student
-> Founder Mindset
-> Offensive Security Specialist
-> Red Team Operator
-> Zero-Day Finder
-```
-
----
-
-## ⚔️ CORE CAPABILITIES
-
-- 🌐 Web Application Pentesting  
-- 📱 Mobile App Security Testing  
-- 🔐 API Exploitation  
-- 🧠 Business Logic Attacks  
-- 🪪 Auth & Access Control Bypass  
-- ☁️ Cloud Security Testing  
-- 🏢 Active Directory Attacks  
-- 🐧 Linux Privilege Escalation  
-- 🪟 Windows Privilege Escalation  
-- 💣 Exploit Development  
-- 🔍 Deep Recon & Attack Surface Mapping  
-- ⚡ Vulnerability Chaining  
-- 🧬 Post Exploitation  
-- 📡 Lateral Movement  
-
----
-
-## 🖥️ OS & HARDWARE
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&color=0a0a0a&labelColor=0DFF00)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E8B57?style=for-the-badge&logo=parrotsecurity&logoColor=white&color=0a0a0a&labelColor=0DFF00)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&color=0a0a0a&labelColor=0DFF00)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=0a0a0a&labelColor=0DFF00)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&color=0a0a0a&labelColor=0DFF00)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&color=0a0a0a&labelColor=0DFF00)
-
----
-
-## 🧰 TECH STACK
-
-![Python](https://img.shields.io/badge/python-0DFF00?style=for-the-badge&logo=python&logoColor=black)
-![Bash](https://img.shields.io/badge/bash-0DFF00?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-0DFF00?style=for-the-badge&logo=docker&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/kubernetes-0DFF00?style=for-the-badge&logo=kubernetes&logoColor=black)
-![AWS](https://img.shields.io/badge/aws-0DFF00?style=for-the-badge&logo=amazon-aws&logoColor=black)
-
----
-
-## ⚡ ATTACK FLOW
-
-```
-1. Recon → Expand Surface
-2. Identify Hidden Entry Points
-3. Abuse Logic & Access Control
-4. Chain Vulnerabilities
-5. Escalate Privileges
-6. Extract High-Value Data
-```
-
----
-
-## 🏆 CTF & ACHIEVEMENTS
-
-- 🧠 TryHackMe: Top 3%  
-- 💀 Active Bug Hunter  
-- ⚡ Focus on High Impact Findings  
-
----
-
-## 📡 LIVE STATUS
-
-```
-┌──(sentinel404㉿attacker)-[~/operations]
-└─$ ./status.sh
-
-[+] Active Projects:
-    ├── Red Team Infra Automation
-    ├── Custom C2 Development
-    ├── Cloud Pentesting Research
-    ├── EDR Evasion Research
-    ├── AD Attack Automation
-    └── Bug Bounty Hunting
-
-[+] Learning Targets:
-    ├── Malware Analysis
-    ├── Kubernetes Security
-    ├── IoT Security
-    └── AI/ML Security
-```
-
----
-
-## 📊 GITHUB STATS
-
-![](https://github-readme-stats.vercel.app/api?username=sentinal404&theme=chartreuse-dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=sentinal404&theme=chartreuse-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sentinal404&theme=chartreuse-dark&layout=compact&hide_border=true)
-
----
+# ⚡ Rishi | Sentinel404 ⚡
+### 💀 Offensive Security • Red Team • Zero-Day Hunter 💀
 
 <p align="center">
-🟢 SYSTEM MODE: OFFENSIVE 🟢
+  <img src="https://img.shields.io/badge/Student-%23000000.svg?style=for-the-badge&logo=googlescholar&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Founder_Mindset-%23000000.svg?style=for-the-badge&logo=target&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Offensive_Security-Specialist-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Red_Team-Operator-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Zero--Day-Finder-%23000000.svg?style=for-the-badge&logo=bugcrowd&logoColor=cyan" />
 </p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sentinal404&icon=5&color=10)](https://visitcount.itsvg.in)
+</div>
+
+## 🔍 Mission Objective
+Highly motivated security researcher and offensive security specialist with a focus on deep reconnaissance, vulnerability chaining, and zero-day research. Proven track record in identifying critical flaws in enterprise systems and government infrastructure.
+
+---
+
+## 🛠️ Cyber Arsenal & Expertise
+
+<div align="center">
+
+| Area | Expertise |
+| :--- | :--- |
+| 🌐 **Web & API** | Web App Pentesting • API Exploitation • Auth & Access Control Bypass |
+| 📱 **Mobile & Apps** | Mobile App Security Testing • Business Logic Attacks |
+| ☁️ **Cloud & Infra** | Cloud Security Testing • Active Directory Attacks • Red Team Infra Dev |
+| 🐧 **System & OS** | Linux & Windows Privilege Escalation • Post Exploitation |
+| 💣 **Research** | Exploit Development • Vulnerability Chaining • Zero-Day Hunting |
+| 📡 **Network** | Deep Recon • Attack Surface Mapping • Lateral Movement |
+
+</div>
+
+---
+
+## 🛡️ Vulnerability Portfolio (CVEs)
+
+### [CVE-2026-34597](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2026-34597)
+- **Description**: Critical remote vulnerability identified and documented in 2026.
+- **Impact**: Demonstrates advanced zero-day discovery and exploit development capabilities.
+
+---
+
+## 🎓 Certifications & Training
+
+- 🛡️ **CRT-ID** (Certified Red Team Infrastructure Developer) - *CyberWarFare Labs*
+- ⚔️ **CRTA** (Certified Red Team Analyst) - *CyberWarFare Labs*
+- 🛠️ **Jr. Penetration Tester** - *TryHackMe*
+- 🌐 **Practical API Hacking** - *TCM Security*
+- ☣️ **Practical Ethical Hacking** - *TCM Security*
+- 🔍 **OSINT Excellence** - *CyberWarFare Labs*
+- 🎓 **Jr. Penetration Tester Certificate** - *TCM Security*
+
+---
+
+## 💼 Experience & Internships
+
+- 👨‍💻 **Software Developer Intern** | CSIB Jau (Jammu and Kashmir) - *Remote*
+- 🏗️ **Red Team Infra Dev** | *CyberWarFare Labs*
+
+---
+
+## 🏆 Hall of Fame & Recognition
+
+- 🚀 **NASA** (National Aeronautics and Space Administration)
+- 🏛️ **State of California VDP**
+- 🛡️ **Sheryians Coding School** - *Certificate of Achievement*
+- 🌐 **Znet Pvt Limited** - *Certificate of Achievement*
+
+---
+
+## 📈 GitHub Matrix
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sentinel404&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sentinel404&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sentinel404&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+  <h3>⚡ Let's Connect ⚡</h3>
+  <p>
+    <a href="https://twitter.com/Sentinel404"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/Sentinel404"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=Sentinel404&color=cyan&style=flat-square&label=PROFILE+VIEWS" />
+</div>
