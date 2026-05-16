@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQF7VRlmFxu97Q/profile-displayphoto-scale_200_200/B56ZsY_sAtI0AY-/0/1765650909472?e=1776297600&v=beta&t=mzYq-0IIbI-NDoWn7mv0A0wuEeUb7YqUqd8i_i5B6mg" width="180" height="180" style="border-radius: 50%; border: 4px solid #00FF00; box-shadow: 0 0 20px #00FF00;" />
+  <img src="https://avatars.githubusercontent.com/u/254640175" width="180" height="180" style="border-radius: 50%; border: 4px solid #00FF00; box-shadow: 0 0 20px #00FF00;" />
   <br><br>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;pause=1000&amp;color=00FFCC&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Rishi+%7C+Sentinel404;Offensive+Security+Specialist;Red+Team+Operator;Zero-Day+Hunter" alt="Typing SVG" />
