@@ -83,10 +83,8 @@ vulnerability research, exploit development, and proof-of-concept creation:
 | :--- | :--- | :--- | :--- |
 | ![CVE](https://img.shields.io/badge/CVE--2026--42608-critical-00FF41?style=flat-square&labelColor=0D1117) | **Grav CMS** | Path Traversal & Arbitrary File Write | Critical (9.8) |
 | ![CVE](https://img.shields.io/badge/CVE--2026--34597-high-00FF41?style=flat-square&labelColor=0D1117) | **Coolify** | Authenticated Remote Code Execution | High (8.8) |
-| ![CVE](https://img.shields.io/badge/CVE--2026--39385-high-00FF41?style=flat-square&labelColor=0D1117) | **OpenSSH** / **Google Chrome** | Privilege Escalation / Policy Bypass | High |
+| ![CVE](https://img.shields.io/badge/CVE--2026--39385-high-00FF41?style=flat-square&labelColor=0D1117) | **Frappe LMS** | Enrollment Bypass in Paid Courses | High |
 | ![CVE](https://img.shields.io/badge/CVE--2026--35223-high-00FF41?style=flat-square&labelColor=0D1117) | **Joomla! Core** | Improper Access Check (com_config) | High (7.5) |
-
-> *Note: CVE-2026-39385 is likely a typo for CVE-2026-35385 in OpenSSH or CVE-2026-3938 in Google Chrome as there is no publicly known CVE-2026-39385. Both related vulnerabilities are High severity.*
 
 **🎖️ Industry & Government Recognition**
 Received formal security acknowledgments from **NASA** and the **Government of California** for
