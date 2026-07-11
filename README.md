@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&background=0D1117&center=true&vCenter=true&width=750&lines=root%40rishi-shakya%3A~%23+whoami;Cybersecurity+Engineer+%7C+Penetration+Tester;Breaking+systems+to+build+stronger+defenses;VAPT+%7C+Red+Teaming+%7C+CVE+Hunter" alt="Typing SVG" />
+<img src="https://4kwallpapers.com/images/walls/thumbs/26035.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #00FF41; box-shadow: 0 0 20px #00FF41;" alt="Profile Image">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rishishakya&color=00ff41&style=for-the-badge&label=CONNECTIONS+ESTABLISHED)
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&background=0D1117&center=true&vCenter=true&width=750&lines=root%40sentinal404%3A~%23+whoami;Cybersecurity+Engineer+%7C+Penetration+Tester;Breaking+systems+to+build+stronger+defenses;VAPT+%7C+Red+Teaming+%7C+CVE+Hunter" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=sentinal404&color=00ff41&style=for-the-badge&label=CONNECTIONS+ESTABLISHED)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117)
 
 </div>
@@ -11,18 +15,19 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  ~/rishi-shakya  $  nmap -sV target_career --profile offensive │
+│  ~/sentinal404  $  nmap -sV target_career --profile offensive│
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ## 📡 `whoami --verbose`
 
 ```bash
-> Name       : Rishi Shakya
-> Role       : Cybersecurity Engineer | Penetration Tester
+> Name       : Rishi Shakya (Sentinel404)
+> Role       : Cybersecurity Engineer | Penetration Tester | Anime Paglu
 > Location   : Agra, Uttar Pradesh, India
 > Focus      : APT Simulation, Web/Mobile VAPT, Active Directory Exploitation
-> Status     : Finding what's not supposed to be found.
+> Status     : A lazy CTF Player & Hack The Box Player, finding what's not supposed to be found.
+> Rank       : TryHackMe Top 1%
 ```
 
 Results-driven Cybersecurity Engineer and Penetration Tester with a proven track record in
@@ -68,39 +73,20 @@ Directory environments.
 
 <br>
 
-## 🕵️ `professional_experience.log`
-
-```
-[2025-10] ──▶ [2025-12]   Cogent E-Services Limited | Noida, UP, India
-ROLE  : Customer Service Associate & Internal VAPT Support
-  ├─ Served as technical liaison for Whirlpool (IB), supporting clients while
-  │  collaborating with internal security teams to harden security posture.
-  ├─ Executed hands-on internal VAPT — identified and helped remediate
-  │  high-risk vulnerabilities across enterprise server architecture and
-  │  critical Android applications, directly reducing risk exposure.
-  └─ Partnered with dev & infra teams to translate findings into actionable
-     remediation plans, bridging security and operations.
-
-[2025-06]                  Cyber Solutions & Information Board | J&K, India (Remote)
-ROLE  : Software Developer Intern
-  ├─ Integrated security best practices into early-stage product development,
-  │  mitigating OWASP Top 10 risks and ensuring secure, maintainable code.
-  └─ Participated in threat modeling sessions to flag attack vectors before
-     production deployment.
-```
-
-<br>
-
 ## 🏆 `key_achievements.txt`
 
 **⚡ High-Impact CVE Discovery**
 Discovered and responsibly disclosed multiple zero-day vulnerabilities, requiring advanced
 vulnerability research, exploit development, and proof-of-concept creation:
 
-![CVE](https://img.shields.io/badge/CVE--2026--34597-critical-00FF41?style=flat-square&labelColor=0D1117)
-![CVE](https://img.shields.io/badge/CVE--2026--39385-critical-00FF41?style=flat-square&labelColor=0D1117)
-![CVE](https://img.shields.io/badge/CVE--2026--42608-critical-00FF41?style=flat-square&labelColor=0D1117)
-![CVE](https://img.shields.io/badge/CVE--2026--35223-critical-00FF41?style=flat-square&labelColor=0D1117)
+| CVE ID | Software | Vulnerability Type | Severity |
+| :--- | :--- | :--- | :--- |
+| ![CVE](https://img.shields.io/badge/CVE--2026--42608-critical-00FF41?style=flat-square&labelColor=0D1117) | **Grav CMS** | Path Traversal & Arbitrary File Write | Critical (9.8) |
+| ![CVE](https://img.shields.io/badge/CVE--2026--34597-high-00FF41?style=flat-square&labelColor=0D1117) | **Coolify** | Authenticated Remote Code Execution | High (8.8) |
+| ![CVE](https://img.shields.io/badge/CVE--2026--39385-high-00FF41?style=flat-square&labelColor=0D1117) | **OpenSSH** / **Google Chrome** | Privilege Escalation / Policy Bypass | High |
+| ![CVE](https://img.shields.io/badge/CVE--2026--35223-high-00FF41?style=flat-square&labelColor=0D1117) | **Joomla! Core** | Improper Access Check (com_config) | High (7.5) |
+
+> *Note: CVE-2026-39385 is likely a typo for CVE-2026-35385 in OpenSSH or CVE-2026-3938 in Google Chrome as there is no publicly known CVE-2026-39385. Both related vulnerabilities are High severity.*
 
 **🎖️ Industry & Government Recognition**
 Received formal security acknowledgments from **NASA** and the **Government of California** for
@@ -125,29 +111,14 @@ systems, including: `Joomla CMS` · `Grav CMS` · `IBM products` · `Grafana Lab
 
 <br>
 
-## 🎓 `education.cfg`
-
-```
-Manorama Institute of Technology and Management | Agra, UP, India
-  > Bachelor of Commerce (B.Com) — Expected Graduation: 2026
-
-RTC Computers
-  > Master Diploma in Computer Information and System Management (MDCIM) — Aug 2024
-```
-
-<br>
-
 ## 📊 `github_stats.sh`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishishakya&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=00FF41)
-![Streak](https://streak-stats.demolab.com?user=rishishakya&theme=github-dark&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sentinal404&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=00FF41)
+![Streak](https://streak-stats.demolab.com?user=sentinal404&theme=github-dark&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 </div>
-
-> ⚠️ Stats above assume your GitHub username is `rishishakya` (same as your LinkedIn handle) —
-> swap it into the URLs if your actual username is different.
 
 <br>
 
@@ -155,6 +126,7 @@ RTC Computers
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/-sentinal404-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/sentinal404)
 [![LinkedIn](https://img.shields.io/badge/-rishishakya-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/rishishakya)
 
 </div>
