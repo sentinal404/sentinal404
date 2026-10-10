@@ -1,116 +1,119 @@
 <div align="center">
 
-<img src="https://4kwallpapers.com/images/walls/thumbs/26035.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #00FF41; box-shadow: 0 0 20px #00FF41;" alt="Profile Image">
+<img src="https://4kwallpapers.com/images/walls/thumbs/26035.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #00FF41; box-shadow: 0 0 25px #00FF41;" alt="Rishi Shakya">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&background=0D1117&center=true&vCenter=true&width=750&lines=root%40sentinal404%3A~%23+whoami;Cybersecurity+Engineer+%7C+Penetration+Tester;Breaking+systems+to+build+stronger+defenses;VAPT+%7C+Red+Teaming+%7C+CVE+Hunter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00FF41&background=0D1117&center=true&vCenter=true&width=780&lines=root%40sentinal404%3A~%23+whoami;Rishi+Shakya+%7C+Cybersecurity+Engineer+%26+Red+Teamer;Zero-Day+CVE+Hunter+%7C+VAPT+%26+APT+Simulation;Architect+of+Vaultia+%26+MeriAwaaz+%7C+Vibe+Coder" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=sentinal404&color=00ff41&style=for-the-badge&label=CONNECTIONS+ESTABLISHED)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn_rishishakya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishishakya)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![CVEs](https://img.shields.io/badge/Zero--Day_CVEs-4_Assigned-00FF41?style=for-the-badge&logo=security&logoColor=black)](#-zero-day-cve-discoveries)
+[![Vibe Coding](https://img.shields.io/badge/Crafted_With-Vibe_Coding-FF4081?style=for-the-badge&logo=sparkles&logoColor=white)](#-featured-innovations--vibe-coding-creations)
 
 </div>
 
 <br>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  ~/sentinal404  $  nmap -sV target_career --profile offensive│
-└──────────────────────────────────────────────────────────────┘
+```bash
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  ~/sentinal404  $  nmap -sV -p- target_career --script vuln,offensive,vibe-coding       │
+│  [+] HOST STATUS    : UP & HUNTING                                                     │
+│  [+] PRIMARY TARGET : Offensive Security, Red Teaming, Cloud Engines & Architecture    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ## 📡 `whoami --verbose`
 
-```bash
-> Name       : Rishi Shakya (Sentinel404)
-> Role       : Cybersecurity Engineer | Penetration Tester | Anime Paglu
-> Location   : Agra, Uttar Pradesh, India
-> Focus      : APT Simulation, Web/Mobile VAPT, Active Directory Exploitation
-> Status     : A lazy CTF Player & Hack The Box Player, finding what's not supposed to be found.
-> Rank       : TryHackMe Top 1%
+```yaml
+Operator       : Rishi Shakya (sentinal404)
+Designation    : Cybersecurity Engineer | Red Team Operator | Vibe Coder
+Location       : Agra, Uttar Pradesh, India
+Specialization : APT Emulation, Web/Mobile VAPT, Active Directory, ICS/SCADA & Zero-Days
+Competitive    : TryHackMe Top 1% Global Rank • Active CTF Player • Hack The Box
+Creations      : Architect of Vaultia & Meri Awaaz (Decentralized Telegram Cloud Storage)
+Connect        : https://www.linkedin.com/in/rishishakya
 ```
 
-Results-driven Cybersecurity Engineer and Penetration Tester with a proven track record in
-vulnerability research — responsible for the discovery of **multiple CVEs**, with contributions
-formally recognized by **NASA** and **IBM**. Specializes in simulating advanced persistent threats
-(APTs), running end-to-end VAPT for web and mobile applications, and embedding security into the
-SDLC from day one. Comfortable exploiting — and remediating — across Linux, Windows, and Active
-Directory environments.
+Results-driven **Cybersecurity Engineer** and **Offensive Security Specialist** with a proven track record in zero-day vulnerability research — responsible for discovering and responsibly disclosing **multiple high-impact CVEs**, with formal recognitions from **NASA** and **IBM**. 
 
-<br>
+Passionate about simulating Advanced Persistent Threats (APTs), orchestrating end-to-end VAPT across Web, Mobile, and Active Directory environments, and building high-performance decentralized software using **Vibe Coding**.
 
-## 🛠️ `core_competencies.sh`
+---
 
-**Offensive Security & Penetration Testing**
+## 🚀 Featured Innovations & Vibe Coding Creations
 
-![OWASP](https://img.shields.io/badge/-OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=00FF41)
-![Android](https://img.shields.io/badge/-Android_Pentesting-000000?style=for-the-badge&logo=android&logoColor=00FF41)
-![Network](https://img.shields.io/badge/-Network_%26_Infra_Pentesting-000000?style=for-the-badge&logoColor=00FF41)
-![AD](https://img.shields.io/badge/-Active_Directory_Exploitation-000000?style=for-the-badge&logo=windows&logoColor=00FF41)
-![RedTeam](https://img.shields.io/badge/-Red_Teaming-000000?style=for-the-badge&logoColor=00FF41)
-![VA](https://img.shields.io/badge/-Vulnerability_Assessment-000000?style=for-the-badge&logoColor=00FF41)
-![Exploit](https://img.shields.io/badge/-Exploit_Validation-000000?style=for-the-badge&logoColor=00FF41)
-![Threat](https://img.shields.io/badge/-Threat_Modeling-000000?style=for-the-badge&logoColor=00FF41)
-![OSINT](https://img.shields.io/badge/-Social_Engineering_(OSINT)-000000?style=for-the-badge&logoColor=00FF41)
+High-velocity, production-verified open-source projects crafted with **Vibe Coding**:
 
-**Technical & Remediation**
+| Project | Description | Architecture Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| ⚡ **[Vaultia](https://github.com/sentinal404/Vaultia)** | Unlimited Telegram Cloud Storage & Streaming Android App | • Native TDLib MTProto Range Streaming (2GB file bypass)<br>• Hardware AES-256-GCM + Biometric Auth<br>• Multi-Worker Bot Parallel Chunk Uploading<br>• 2026 Tactile Claymorphism UI (Jetpack Compose) | [Repo](https://github.com/sentinal404/Vaultia) • [APK](https://github.com/sentinal404/Vaultia/releases) |
+| 🎬 **[MeriAwaaz](https://github.com/sentinal404/MeriAwaaz-Streaming-Platform)** | Decentralized Video & Movie Streaming Portal (Zero AWS S3 Costs) | • Telegram Bot Pool CDN Video Streaming (HTTP 206)<br>• Auto-Categorizing Shorts (≤1m) & Movies (>1m)<br>• LinkedIn-style Visitor Alerts ("User X viewed profile")<br>• Autonomous AI Blue Team Threat Defense | [Repo](https://github.com/sentinal404/MeriAwaaz-Streaming-Platform) |
 
-![Priv](https://img.shields.io/badge/-Privilege_Escalation-000000?style=for-the-badge&logoColor=00FF41)
-![Remediation](https://img.shields.io/badge/-Security_Remediation-000000?style=for-the-badge&logoColor=00FF41)
-![MITRE](https://img.shields.io/badge/-MITRE_ATT%26CK-000000?style=for-the-badge&logoColor=00FF41)
-![Code](https://img.shields.io/badge/-Secure_Code_Review-000000?style=for-the-badge&logoColor=00FF41)
-![Hunt](https://img.shields.io/badge/-Threat_Hunting-000000?style=for-the-badge&logoColor=00FF41)
+---
 
-**Tools & Technologies**
+## 🏆 Zero-Day CVE Discoveries
 
-![Kali](https://img.shields.io/badge/-Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41)
-![Burp](https://img.shields.io/badge/-Burp_Suite-000000?style=for-the-badge&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![AD2](https://img.shields.io/badge/-Active_Directory-000000?style=for-the-badge&logo=windows&logoColor=00FF41)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+Responsible disclosure of zero-day vulnerabilities in enterprise and open-source infrastructure:
 
-<br>
+| CVE ID | Target Software | Vulnerability Classification | CVSS Severity |
+| :--- | :--- | :--- | :---: |
+| ![CVE-2026-42608](https://img.shields.io/badge/CVE--2026--42608-Critical_9.8-00FF41?style=flat-square&labelColor=0D1117) | **Grav CMS** | Path Traversal & Arbitrary File Write | **Critical (9.8)** |
+| ![CVE-2026-34597](https://img.shields.io/badge/CVE--2026--34597-High_8.8-00FF41?style=flat-square&labelColor=0D1117) | **Coolify** | Authenticated Remote Code Execution (RCE) | **High (8.8)** |
+| ![CVE-2026-39385](https://img.shields.io/badge/CVE--2026--39385-High-00FF41?style=flat-square&labelColor=0D1117) | **Frappe LMS** | Privilege & Enrollment Bypass in Paid Courses | **High** |
+| ![CVE-2026-35223](https://img.shields.io/badge/CVE--2026--35223-High_7.5-00FF41?style=flat-square&labelColor=0D1117) | **Joomla! Core** | Improper Access Control (`com_config`) | **High (7.5)** |
 
-## 🏆 `key_achievements.txt`
+---
 
-**⚡ High-Impact CVE Discovery**
-Discovered and responsibly disclosed multiple zero-day vulnerabilities, requiring advanced
-vulnerability research, exploit development, and proof-of-concept creation:
+## 🎖️ Hall of Fame & Enterprise Recognition
 
-| CVE ID | Software | Vulnerability Type | Severity |
-| :--- | :--- | :--- | :--- |
-| ![CVE](https://img.shields.io/badge/CVE--2026--42608-critical-00FF41?style=flat-square&labelColor=0D1117) | **Grav CMS** | Path Traversal & Arbitrary File Write | Critical (9.8) |
-| ![CVE](https://img.shields.io/badge/CVE--2026--34597-high-00FF41?style=flat-square&labelColor=0D1117) | **Coolify** | Authenticated Remote Code Execution | High (8.8) |
-| ![CVE](https://img.shields.io/badge/CVE--2026--39385-high-00FF41?style=flat-square&labelColor=0D1117) | **Frappe LMS** | Enrollment Bypass in Paid Courses | High |
-| ![CVE](https://img.shields.io/badge/CVE--2026--35223-high-00FF41?style=flat-square&labelColor=0D1117) | **Joomla! Core** | Improper Access Check (com_config) | High (7.5) |
+Formal security acknowledgments and Hall of Fame listings for safeguarding digital infrastructure:
 
-**🎖️ Industry & Government Recognition**
-Received formal security acknowledgments from **NASA** and the **Government of California** for
-identifying and reporting critical security flaws, safeguarding sensitive data and infrastructure.
+- 🚀 **NASA** (National Aeronautics and Space Administration) — Vulnerability Research Acknowledgment
+- 🏛️ **Government of California** — Critical Infrastructure Security Reporting
+- 🏢 **IBM** — Security Research & Responsible Disclosure Recognition
+- 📊 **Grafana Labs** — Application Security & Vulnerability Remediation
+- 📝 **Vim Editor** — Open-Source Security Fix Contribution
+- 🌐 **Joomla CMS & Grav CMS** — Core Security Exploitation & Patch Collaboration
+- 🎓 **Indigo-iam** • **Delhi Board** • **ZNET Technology** • **Sheryians Coding School**
 
-**🌐 Ecosystem Security Contributions**
-Strengthened the security of major open-source platforms, enterprise applications, and educational
-systems, including: `Joomla CMS` · `Grav CMS` · `IBM products` · `Grafana Labs` · `Indigo-iam` ·
-`Coolify` · `Delhi Board` · `ZNET Technology` · `Sheryians Coding School`
+---
 
-<br>
+## 📜 Certifications & Cybersecurity Credentials
 
-## 📜 `certifications --list`
+```
+[+] VERIFIED CREDENTIALS
+```
+- 🛡️ **Penetration Tester 1 (PT1)** — *TryHackMe (Oct 2026)*
+- 🏭 **ICS, SCADA, MITRE & Pentest** — *Industrial Control Systems Security (Aug 2026)*
+- ⚔️ **Certified Red Team Analyst (CRTA)** — *Offensive Security (Aug 2025)*
+- 🏗️ **Red Team Infra-Dev (CRT-ID)** — *Offensive Infrastructure Development (Aug 2025)*
+- 🕵️ **Open Source Intelligence (OSINT)** — *TCM Security (Jan 2025)*
+- 💻 **Master Diploma in Computer Information & System Management (MDCIM)** — *RTC Computers (Aug 2024)*
+- 🎯 **Practical Ethical Hacking (PEH)** — *TCM Security (Jan 2024)*
+- ⚡ **Practical API Hacking & Bug Bounty** — *TCM Security (2024)*
+- 🚀 **Jr. Penetration Tester** — *TryHackMe (Nov 2023)*
 
-- [x] Red Team Analyst (CRTA) — Aug 2025
-- [x] Red Team Infra-Dev (CRT-ID) — Aug 2025
-- [x] Practical Ethical Hacking — TCM Security — Jan 2024
-- [x] Practical API Hacking — TCM Security — Jan 2024
-- [x] Practical Bug Bounty — TCM Security — Jan 2024
-- [x] Jr. Penetration Tester — TryHackMe — Nov 2023
-- [x] OSINT — TCM Security — Jan 2025
-- [x] PT1 — JR Penetration Tester 
+---
 
-<br>
+## 🛠️ Offensive Arsenal & Technical Weaponry
 
-## 📊 `github_stats.sh`
+<div align="center">
+
+| Domain | Weaponry & Tooling |
+| :--- | :--- |
+| **Offensive Operations** | OWASP Top 10 • Active Directory Attack Chains • APT Emulation • Red Teaming • Privilege Escalation • ICS/SCADA Pentesting |
+| **Security Auditing** | Burp Suite Professional • Metasploit • Wireshark • Nmap • BloodHound • Frida • Ghidra • MobSF |
+| **OSINT & Recon** | Digital Footprinting • Attack Surface Mapping • Firefox Add-on Dev (`WebRecon-X`) • Maltego • Python Automation |
+| **Engineering & Cloud** | Python • Kotlin • TypeScript • React • Node.js • Express • MongoDB • Docker • Jetpack Compose • Telegram MTProto |
+
+</div>
+
+---
+
+## 📊 Terminal Analytics & Activity
 
 <div align="center">
 
@@ -119,25 +122,22 @@ systems, including: `Joomla CMS` · `Grav CMS` · `IBM products` · `Grafana Lab
 
 </div>
 
-<br>
+---
 
-## 📡 `connect.sh`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-sentinal404-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/sentinal404)
-[![LinkedIn](https://img.shields.io/badge/-rishishakya-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/rishishakya)
-
-</div>
-
-<br>
+## 📡 Establish Connection
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi_Shakya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishishakya)
+[![GitHub](https://img.shields.io/badge/GitHub-sentinal404-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sentinal404)
+[![Email](https://img.shields.io/badge/Email-rishishakya30%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishishakya30@gmail.com)
+
+<br>
 
 ```
 "The quieter you become, the more you are able to hear."
 ```
 
-![Snake](https://img.shields.io/badge/-EOF-000000?style=flat-square&logoColor=00FF41)
+⭐ *Hit a Star on my repositories if you find my work inspiring!* ⭐
 
 </div>
