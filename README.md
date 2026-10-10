@@ -106,7 +106,7 @@ systems, including: `Joomla CMS` · `Grav CMS` · `IBM products` · `Grafana Lab
 - [x] Practical Bug Bounty — TCM Security — Jan 2024
 - [x] Jr. Penetration Tester — TryHackMe — Nov 2023
 - [x] OSINT — TCM Security — Jan 2025
-- [x] EJPT — JR Penetration Tester 
+- [x] PT1 — JR Penetration Tester 
 
 <br>
 
