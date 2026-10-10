@@ -117,8 +117,12 @@ Formal security acknowledgments and Hall of Fame listings for safeguarding digit
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sentinal404&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=00FF41)
 ![Streak](https://streak-stats.demolab.com?user=sentinal404&theme=github-dark&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+<br><br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sentinal404&show_icons=true&hide=commits&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=00FF41)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sentinal404&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&border_color=00FF41)
 
 </div>
 
