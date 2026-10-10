@@ -130,7 +130,6 @@ Formal security acknowledgments and Hall of Fame listings for safeguarding digit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi_Shakya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishishakya)
 [![GitHub](https://img.shields.io/badge/GitHub-sentinal404-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sentinal404)
-[![Email](https://img.shields.io/badge/Email-rishishakya30%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishishakya30@gmail.com)
 
 <br>
 
